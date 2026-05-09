@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>FinalShell on Yang Blog</title><link>https://voyager314.github.io/tags/finalshell/</link><description>Recent content in FinalShell on Yang Blog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 09 May 2026 23:22:29 +0800</lastBuildDate><atom:link href="https://voyager314.github.io/tags/finalshell/index.xml" rel="self" type="application/rss+xml"/><item><title>解决FinalShell文件上传失败的方法</title><link>https://voyager314.github.io/posts/blog-2/</link><pubDate>Sat, 09 May 2026 23:22:29 +0800</pubDate><guid>https://voyager314.github.io/posts/blog-2/</guid><description>&lt;h2 id="问题描述"&gt;问题描述&lt;/h2&gt;
+&lt;p&gt;在使用FinalShell上传本地文件时出现上传失败的情况，如图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20260509233240765" loading="lazy" src="./assets/image-20260509233240765.png"&gt;&lt;/p&gt;
+&lt;h2 id="原因分析"&gt;原因分析&lt;/h2&gt;
+&lt;p&gt;核心原因是连接账号的权限不足，非root用户无法上传文件。&lt;/p&gt;
+&lt;p&gt;于是更改为root用户：&lt;/p&gt;</description></item></channel></rss>
